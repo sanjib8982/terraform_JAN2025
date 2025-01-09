@@ -1,0 +1,3 @@
+Install terraform in Windows using choco
+Set path in Environment variables
+Update to lates: choco upgrade terraform
