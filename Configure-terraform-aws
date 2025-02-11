@@ -1,0 +1,6 @@
+Install Terraform on Windows, Configure
+Download VS Cod, add Hasicorp Terraform autocomplete extension
+Download and Install AWS CLI on Windows
+Create IAM user in AWS, attching Admin access, Access key and secret access key
+Configure IAM user - aws configure
+Creating directory and Create EC2 Instance in AWS using Terraform
